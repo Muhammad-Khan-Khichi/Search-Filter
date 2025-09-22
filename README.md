@@ -33,11 +33,6 @@ It displays a collection of items (with images and names) and allows the user to
 - **CSS3** (Grid + Flexbox) for styling
 - **Vanilla JavaScript** for filtering logic
 
----
-
-## 📸 Demo Screenshot
-*(replace with your screenshot)*  
-![Demo Screenshot](./screenshot.png)
 
 ---
 
@@ -65,3 +60,4 @@ let data = [
 ---
 
 Would you like me to also add **installation + live preview instructions** (e.g., using VS Code Live Server or GitHub Pages) so someone can run it instantly?
+
